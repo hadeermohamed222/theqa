@@ -1,0 +1,77 @@
+@media (min-width: 1200px){
+	
+}
+/*madiam*/
+@media (max-width: 1199.98px){
+    .p-about-us{
+	   margin-top:30px;
+    }
+	.p-about-us button{
+		bottom:-60px;
+	}
+	.bottom-serves{
+		top:-120px;
+	 }
+	 .sc-row-home {
+        height: 550px;
+     }
+	
+}
+/*small*/
+@media (max-width: 991.98px){
+     .p-about-us{
+		font-size:16px;
+	 }
+     .p-about-us button{
+		height:30px;
+	 }
+	 .image{
+		width:180px;
+		height:200px;
+		margin-top:-12px;:
+	 }
+	 .top-serves{
+		top:30px;
+		right:80px;
+		height:20%;
+	 }
+	 .bottom-serves{
+		top:-120px;
+		height:80%;
+	 }
+	 .overlay{
+		bottom:-5px;
+	 }
+	 .text {
+		top:25%;
+		font-size:16px;
+	 }
+	 .career-sc{
+		left: 170px;
+	 }
+	 .sc-row-home {
+        height: 550px;
+     }
+	 .left-cont{
+		margin-right:50px;
+	 }
+	 
+}
+/*phon*/
+@media(max-width:767px){
+	 .p-about-us{
+		font-size:16px;
+	 }
+	 .sc-right{
+		left:0;
+		top:50px;
+		width:500px;
+	 }
+	  .bottom-serves{
+		top:-120px;
+	 }
+	 .top-serves{
+		right:10px;
+	 }
+	
+}
